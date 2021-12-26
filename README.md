@@ -1,0 +1,2 @@
+# HackerRankSqlTasks
+Practice Sql
